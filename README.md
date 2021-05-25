@@ -2,6 +2,11 @@
 
 
 ### Eu sou Moises!!!
+
+- [ ] Parte 1 😖 
+- [x] Parte 2 ✨
+
+
 <!--
 **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
