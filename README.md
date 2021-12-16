@@ -1,7 +1,7 @@
 ## Olá 👋 Meu nome Moises!!!
 
 
-Estou aprendendo dia a dia Desenvolvimento de Software, porém já tenho um boa experiência especialmente com frameworks como Flask (Python) para Web.
+Estou aprendendo dia a dia Desenvolvimento de Software, porém já tenho um boa experiência especialmente com frameworks como Flask (Python) no Backend.
 <!--
 **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
