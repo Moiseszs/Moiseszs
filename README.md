@@ -1,10 +1,6 @@
-## Hi👋. My name is Moises!!!
+## Oi👋. Meu nome é Moises!!!
 
-
-I'm currently still a junior developer, but yet I have some useful knowledge with Pyhton (Flask framework) and Javascript (with React and vanilla).
-
- 🌱 I’m currently developing a NPM package and a frontend application to consume @D3vD/Meme_API (wich is really fun to do).
-
+Eu sou um dev Jr., porém já tenho dominio de conhecimentos com Python (Flask), Javascript (React e Vanilla), além da tecnologia .NET
 <!--
 **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
