@@ -1,6 +1,6 @@
 ## Oi👋 Eu sou Moises!!!
 
-Sou um dev Jr., porém já conheço tecnologias como Python (Flask), Javascript (React e Vanilla), além da tecnologia .NET
+Sou um dev Jr., porém já conheço tecnologias como Python (Flask), Javascript (React e Vanilla), além da linguagem Java
 <!--
 **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
