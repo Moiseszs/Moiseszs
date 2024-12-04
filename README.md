@@ -1,6 +1,7 @@
 ## Oi👋 Eu sou Moises!!!
 
-Sou um dev Jr. com experiência em projetos feitos com tecnologias como Python (Flask), Javascript (React e Vanilla), além da linguagem Java
+Sou um dev Jr. com conhecimento em tecnologias como Python (Flask), Javascript (Angular, React), além das linguagens C# e Java.
+Tmabém tenho interesse em aprender tópicos de data science e analytics como: PowerBI, Machine Learning, ETL e Jupyter Notebooks.
 <!--
 **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
