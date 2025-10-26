@@ -6,7 +6,7 @@ Agora, também estou aprendendo tópicos de Data Science e Data Analytics, como:
 <!-- **MoisesOliveira/MoisesOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 - 🔭 Estou atualmente trabalhando no [Verificador de Fake News](https://github.com/Moiseszs/VerificadorDeFakeNews)
-- 🌱 Atualmente estou aprendendo sobre Machine Learning e Python
+- 🌱 Atualmente estou aprendendo sobre Containers e Mensageria (RabbitMQ)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
